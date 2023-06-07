@@ -1,0 +1,39 @@
+{
+  "group": "rpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "rpgmod:deaditem"
+    },
+    "2": {
+      "item": "rpgmod:deaditem"
+    },
+    "3": {
+      "item": "rpgmod:deaditem"
+    },
+    "4": {
+      "item": "rpgmod:deaditem"
+    },
+    "5": {
+      "item": "rpgmod:deaditem"
+    },
+    "6": {
+      "item": "rpgmod:deaditem"
+    },
+    "7": {
+      "item": "rpgmod:deaditem"
+    },
+    "8": {
+      "item": "rpgmod:deaditem"
+    }
+  },
+  "result": {
+    "item": "rpgmod:undead_chestplate",
+    "count": 1
+  }
+}

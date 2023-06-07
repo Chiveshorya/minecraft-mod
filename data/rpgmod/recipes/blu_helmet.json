@@ -1,0 +1,29 @@
+{
+  "group": "rpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "rpgmod:bluesky"
+    },
+    "1": {
+      "item": "rpgmod:bluesky"
+    },
+    "2": {
+      "item": "rpgmod:bluesky"
+    },
+    "3": {
+      "item": "rpgmod:bluesky"
+    },
+    "5": {
+      "item": "rpgmod:bluesky"
+    }
+  },
+  "result": {
+    "item": "rpgmod:brahma_helmet",
+    "count": 1
+  }
+}

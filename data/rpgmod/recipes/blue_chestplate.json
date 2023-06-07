@@ -1,0 +1,39 @@
+{
+  "group": "rpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "rpgmod:bluesky"
+    },
+    "2": {
+      "item": "rpgmod:bluesky"
+    },
+    "3": {
+      "item": "rpgmod:bluesky"
+    },
+    "4": {
+      "item": "rpgmod:bluesky"
+    },
+    "5": {
+      "item": "rpgmod:bluesky"
+    },
+    "6": {
+      "item": "rpgmod:bluesky"
+    },
+    "7": {
+      "item": "rpgmod:bluesky"
+    },
+    "8": {
+      "item": "rpgmod:bluesky"
+    }
+  },
+  "result": {
+    "item": "rpgmod:brahma_chestplate",
+    "count": 1
+  }
+}
