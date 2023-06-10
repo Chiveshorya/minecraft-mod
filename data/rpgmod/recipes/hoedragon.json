@@ -1,0 +1,27 @@
+{
+  "group": "rpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "rpgmod:bluesky"
+    },
+    "1": {
+      "item": "rpgmod:bluesky"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "rpgmod:dragontool_4",
+    "count": 1
+  }
+}
